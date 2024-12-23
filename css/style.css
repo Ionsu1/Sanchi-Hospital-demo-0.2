@@ -801,6 +801,7 @@ button:focus {
 
 .feature-section {
   position: relative;
+  padding-bottom: 10px;
 }
 .feature-section .image-content .section-title {
   margin-bottom: 20px;

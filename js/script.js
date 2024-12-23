@@ -7,6 +7,9 @@
 
 (function ($) {
 	"use strict";
+
+
+
 	
 	// navbarDropdown
 	if ($(window).width() < 992) {
