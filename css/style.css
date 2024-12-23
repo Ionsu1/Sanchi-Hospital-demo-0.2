@@ -1678,7 +1678,7 @@ button:focus {
   width: 100%;
   padding: 10px 20px;
   border: 1px solid #ececec;
-  background: #f4f4f4 url(../images/icons/icon-select.png) right center no-repeat;
+  background: #f4f4f4 url(../images/icons/icon-select.webp) right center no-repeat;
   cursor: pointer;
 }
 .contact-area .form-group option {
