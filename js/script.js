@@ -180,14 +180,21 @@
                   </li>
                 </ul>
                 <ul class="list-inline social-icons">
-                  <li class="list-inline-item"><a href="https://facebook.com/themefisher" aria-label="facebook"><i
+                  <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=61569153371504" aria-label="facebook"><i
                         class="fab fa-facebook-f"></i></a></li>
-                  <li class="list-inline-item"><a href="https://twitter.com/themefisher" aria-label="twitter"><i
+                  <li class="list-inline-item"><a href="https://x.com/home?lang=en" aria-label="twitter"><i
                         class="fab fa-twitter"></i></a></li>
-                  <li class="list-inline-item"><a href="https://instagram.com/themefisher" aria-label="instagram"><i
+                  <li class="list-inline-item"><a href="https://www.instagram.com/sanchihospital/" aria-label="instagram"><i
                         class="fab fa-instagram"></i></a></li>
-                  <li class="list-inline-item"><a href="https://github.com/themefisher" aria-label="github"><i
-                        class="fab fa-github"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.google.com/search?q=sanchi+hospital+bhubaneswar" aria-label="google-plus">
+						<i class="fab fa-google-plus-g"></i></a></li>
+                  <li class="list-inline-item"><a href="https://in.pinterest.com/sanchihospitals/" aria-label="pinterest">
+						<i class="fab fa-pinterest-p"></i>
+					  </a></li>
+                  <li class="list-inline-item"><a href="https://www.youtube.com/channel/UCR4dRd1k1o8orj9nuSn1j-g" aria-label="pinterest">
+						<i class="fab fa-youtube"></i>
+					  </a>
+					</li>
                 </ul>
               </div>
             </div>
