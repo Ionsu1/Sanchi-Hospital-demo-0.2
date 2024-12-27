@@ -61,7 +61,7 @@
 		<section class="header-uper">
 		  <div class="container">
 			<div class="row align-items-center">
-			  <div class="col-xl-4 col-lg-3">
+			  <div class="col-xl-3 col-lg-3" >
 				<div class="logo">
 				  <a href="index.html">
 					<img loading="lazy" class="img-fluid" src="images/Sachi-logo.webp" alt="logo">
@@ -69,7 +69,7 @@
 				  </a>
 				</div>
 			  </div>
-			  <div class="col-xl-8 col-lg-9">
+			  <div class="col-xl-9 col-lg-9">
 				<div class="right-side">
 				  <ul class="contact-info pl-0 mb-4 mb-md-0">
 					<li class="item text-left">
