@@ -281,39 +281,43 @@
                   <span>Appointment</span>
                 </h3>
               </div>
-              <form name="contact_form" class="default-form contact-form" action="!#" method="post">
+              <form name="contact_form" class="default-form contact-form" action="https://api.web3forms.com/submit"
+                method="post">
                 <div class="row">
+                  <input type="hidden" name="access_key" value="f9a71f9e-d75a-4702-bd48-c9cef3c33241">
                   <div class="col-md-6">
                     <div class="form-group">
-                      <input class="form-control" type="text" name="Name" placeholder="Name" required="">
+                      <input class="form-control" type="text" name="Name" placeholder="Name" required>
                     </div>
                     <div class="form-group">
-                      <input class="form-control" type="email" name="Email" placeholder="Email" required="">
+                      <input class="form-control" type="email" onfocus="this.value=''" value="" name="Email"
+                        placeholder="Email" required>
                     </div>
-                    <div class="form-group">
+                    <!-- <div class="form-group">
                       <select class="form-control" name="subject">
                         <option>Departments</option>
                         <option>Diagnostic</option>
                         <option>Psychological</option>
                       </select>
-                    </div>
+                    </div> -->
                   </div>
                   <div class="col-md-6">
                     <div class="form-group">
-                      <input class="form-control" type="text" name="Phone" placeholder="Phone" required="">
+                      <input class="form-control" type="text" onfocus="this.value=''" value="" pattern="[0-9]+"
+                        minlength="10" maxlength="10" name="Phone" placeholder="Phone" required>
                     </div>
-                    <div class="form-group">
-                      <input class="form-control" type="text" name="Date" placeholder="Date" required="" id="datepicker"
+                    <!-- <div class="form-group">
+                      <input class="form-control" type="text" name="Date" placeholder="Date" required id="datepicker"
                         autocomplete="off">
                       <i class="fa fa-calendar" aria-hidden="true"></i>
-                    </div>
-                    <div class="form-group">
+                    </div> -->
+                    <!-- <div class="form-group">
                       <select class="form-control" name="subject">
                         <option>Doctor</option>
                         <option>Diagnostic</option>
                         <option>Psychological</option>
                       </select>
-                    </div>
+                    </div> -->
                   </div>
                   <div class="col-md-12">
                     <div class="form-group">

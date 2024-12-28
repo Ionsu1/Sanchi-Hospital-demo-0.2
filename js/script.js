@@ -88,7 +88,7 @@
 					  </div>
 					  <strong>Call Now</strong>
 					  <br>
-					  <span>+ (88017) - 123 - 4567</span>
+					  <a href="tel:+4733378901"><span>+47 333 78 901</span></a>
 					</li>
 				  </ul>
 				  <div class="link-btn text-center text-lg-right">
