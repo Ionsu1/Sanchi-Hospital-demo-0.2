@@ -166,17 +166,18 @@
                 <ul class="location-link">
                   <li class="item">
                     <i class="fas fa-map-marker-alt"></i>
-                    <p>Modamba, NY 80021, United States</p>
+                    <p>304, Square, behind Dcp Office,
+Bhoi Nagar, Vani Vihar, Bhubaneswar, Odisha 751022</p>
                   </li>
                   <li class="item">
                     <i class="far fa-envelope" aria-hidden="true"></i>
                     <a href="mailto:support@medic.com">
-                      <p>support@medic.com</p>
+                      <p>sanchihospitals3@gmail.com</p>
                     </a>
                   </li>
                   <li class="item">
                     <i class="fas fa-phone" aria-hidden="true"></i>
-                    <p>(88017) +123 4567</p>
+                    <p>+91 9861999880</p>
                   </li>
                 </ul>
                 <ul class="list-inline social-icons">
