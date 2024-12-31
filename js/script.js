@@ -13,7 +13,7 @@
 			<div class="row align-items-center">
 			  <div class="col-md-6">
 				<div class="top-left text-center text-md-left">
-				  <h6>Opening Hours : Saturday to Tuesday - 8am to 10pm</h6>
+				  <h6>Opening Hours : Monday to Sunday - 24 hours</h6>
 				</div>
 			  </div>
 			  <div class="col-md-6">
@@ -79,7 +79,7 @@
 					  <strong>Email</strong>
 					  <br>
 					  <a href="mailto:info@medic.com">
-						<span>info@sanchihospital.com</span>
+						<span>sanchihospitals3@gmail.com</span>
 					  </a>
 					</li>
 					<li class="item text-left">
@@ -88,7 +88,7 @@
 					  </div>
 					  <strong>Call Now</strong>
 					  <br>
-					  <a href="tel:+4733378901"><span>+47 333 78 901</span></a>
+					  <a href="tel:+919861999880"><span>+919861999880</span></a>
 					</li>
 				  </ul>
 				  <div class="link-btn text-center text-lg-right">
@@ -203,23 +203,23 @@
               <ul class="menu-link">
                 <li>
                   <a href="service.html">
-                    <i class="fa fa-angle-right" aria-hidden="true"></i>Orthopadic Liabilities</a>
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>Paediatrics</a>
                 </li>
                 <li>
                   <a href="service.html">
-                    <i class="fa fa-angle-right" aria-hidden="true"></i>Dental Clinic</a>
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>Cardiology</a>
                 </li>
                 <li>
                   <a href="service.html">
-                    <i class="fa fa-angle-right" aria-hidden="true"></i>Dormamu Clinic</a>
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>Anesthesiology</a>
                 </li>
                 <li>
                   <a href="service.html">
-                    <i class="fa fa-angle-right" aria-hidden="true"></i>Psycological Clinic</a>
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>Nephrology</a>
                 </li>
                 <li>
                   <a href="service.html">
-                    <i class="fa fa-angle-right" aria-hidden="true"></i>Gynaecological Clinic</a>
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>General-Surgery</a>
                 </li>
               </ul>
             </div>
@@ -229,28 +229,12 @@
                 <ul>
                   <li class="item">
                     <div class="media">
-                      <div class="media-left mr-3">
-                        <a href="blog-details.html">
-                          <img loading="lazy" src="images/blog/post-thumb-small.jpg" alt="post-thumb">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                        <h5><a href="blog-details.html">A lesson adip isicing</a></h5>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, dolorem.</p>
-                      </div>
+                      coming soon...
                     </div>
                   </li>
                   <li class="item">
                     <div class="media">
-                      <div class="media-left mr-3">
-                        <a href="blog-details.html">
-                          <img loading="lazy" src="images/blog/post-thumb-small.jpg" alt="post-thumb">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                        <h5><a href="blog-details.html">How to make an event</a></h5>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, dolorem.</p>
-                      </div>
+                     coming soon...
                     </div>
                   </li>
                 </ul>
